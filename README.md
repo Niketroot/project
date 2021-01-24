@@ -1,2 +1,4 @@
 # project
-These repository contains all project files
+Hello there!
+
+I love to code on github . I do node.js coding.
